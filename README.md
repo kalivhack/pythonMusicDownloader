@@ -1,6 +1,6 @@
 # Music Downloader
 
-This Python script retrieves URLs of music files from the "https://now.morsmusic.org" website and downloads them into a local "files" folder. The script utilizes the requests and BeautifulSoup modules to scrape the website for music file links and the urllib module to download the files to the local machine.
+This Python script retrieves URLs of music files from the "https://now.morsmusic.org" website and downloads them into a local "./" folder. The script utilizes the requests and BeautifulSoup modules to scrape the website for music file links and the urllib module to download the files to the local machine.
 
 ## Installation
 
